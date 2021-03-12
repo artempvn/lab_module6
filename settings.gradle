@@ -1,5 +1,4 @@
-rootProject.name = 'lab4'
+rootProject.name = 'lab6'
 include 'certificate'
 include 'user'
 include 'keycloak_security'
-
